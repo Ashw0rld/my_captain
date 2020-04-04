@@ -1,0 +1,5 @@
+#python code for printing positive no. in a range
+arr = [12, -7, 5, 64, -14]
+for n in arr:
+  if n >= 0:
+    print(n)
